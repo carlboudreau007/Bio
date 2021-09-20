@@ -1,16 +1,16 @@
-<table border="1" cellpadding="8" cellspacing="1" style="width: 100%;">
+<table border="1" cellpadding="8" cellspacing="1" style="width: 90%;">
 
 <tbody>
 
 <tr>
 
-<td width="50%">
+<td width="20%">
 
 <div style="text-align: center;">![Bio Picture](/servlet/JiveServlet/downloadImage/38-63982-831460/BioPic_CarlBoudreau.png)</div>
 
 </td>
 
-<td width="50%">
+<td width="80%">
 
 <div style="text-align: center;">![Bio Cloud](/servlet/JiveServlet/downloadImage/38-63982-831461/TLCP_BIO.png)</div>
 
