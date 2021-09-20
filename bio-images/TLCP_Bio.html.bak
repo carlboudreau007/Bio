@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="100%" border="1" cellspacing="1px" cellpadding="8px">
+  <tbody>
+    <tr>
+      <td width="50%">
+		  <div style="text-align: center;">Profile Picture</div>
+		  <br>		
+		  <table width="100%%" border="0" cellspacing="1px" cellpadding="8px">
+			  <tbody>
+				<tr>
+					<td>
+						<div style="border-radius: 15px; border: 2px solid #d45d00;padding:8px;text-align: center;">
+							TLCP Image<br>
+						Follow Carls BLOG</div>
+					</td>
+					<td>
+						<div style="border-radius: 15px; border: 2px solid #e77721;padding:8px;text-align: center;">
+							HUB Image<br>
+							Connect with Carl on the Hub
+						<\div>
+					</td>
+					<td>
+						<div style="border-radius: 15px; border: 2px solid #d19000;padding:8px;text-align: center;">
+							LinkedIn Image<br>
+						Connect with Carl on LinkedIn
+						</div>
+					</td>
+				</tr>
+			  </tbody>
+		  </table>		
+	  </td>
+      <td  width="50%">
+		  <div style="text-align: center;">Word Cloud</div>
+	  </td>
+    </tr>
+    <tr>
+		<td colspan="2">
+			<table width="100%%" border="1" cellspacing="4px" cellpadding="4px">
+			  <tbody>
+					<tr>
+      <td width="33%">
+		  <div style="border-radius: 15px; border: 2px solid #ffcd00;padding:8px;text-align: center;">
+			  Bio Text and Skillset
+		  </div>
+		</td>
+      	<td width="66%">
+		  <div style="border-radius: 15px; border: 2px solid #d0d0cc;padding:8px;text-align: center;">
+			  Work Experiance
+		  </div>
+		</td>
+    </tr>
+				</tbody></table>
+		</td>
+	</tr>
+    <tr>
+      <td colspan="2"><table width="100%%" border="1" cellspacing="4px" cellpadding="4px">
+		  <table width="100%%" border="1" cellspacing="4px" cellpadding="4px">
+			  <tbody>
+					<tr>
+						  <td width="20%"><div style="border-radius: 15px; border: 2px solid #b1b3b2;padding:8px;text-align: center;">
+						  External Intrest
+					  </div></td>
+									  <td  width="20%"><div style="border-radius: 15px; border: 2px solid #878b8e;padding:8px;text-align: center;">
+						  External Intrest
+					  </div></td>
+									  <td width="20%"><div style="border-radius: 15px; border: 2px solid #d45d00;padding:8px;text-align: center;">
+						  External Intrest
+					  </div></td>
+									  <td width="20%"><div style="border-radius: 15px; border: 2px solid #e77721;padding:8px;text-align: center;">
+						  External Intrest
+					  </div></td>
+						<td width="20%"><div style="border-radius: 15px; border: 2px solid #d19000;padding:8px;text-align: center;">
+						  External Intrest
+					  </div></td>
+					</tr>
+			  </tbody>
+		</table>
+	  </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+	
+</html>
