@@ -6,7 +6,7 @@
 
 <td width="20%">
 
-<div style="text-align: center;">![Bio Picture](/servlet/JiveServlet/downloadImage/38-63982-831460/BioPic_CarlBoudreau.png)</div>
+<div style="text-align: center;">![Bio Picture](/bio-images/BioPic_CarlBoudreau.png)</div>
 
 </td>
 
